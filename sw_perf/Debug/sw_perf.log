@@ -1,0 +1,6 @@
+﻿  sw_perf.cpp
+C:\Users\osama\source\repos\sw_perf\sw_perf.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\osama\source\repos\sw_perf\sw_perf.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\osama\source\repos\sw_perf\sw_perf.cpp(40,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\osama\source\repos\sw_perf\sw_perf.cpp(56): warning C4715: 'find_func': not all control paths return a value
+  sw_perf.vcxproj -> C:\Users\osama\source\repos\sw_perf\Debug\sw_perf.exe

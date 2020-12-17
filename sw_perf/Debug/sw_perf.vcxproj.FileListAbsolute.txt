@@ -1,0 +1,2 @@
+C:\Users\osama\source\repos\sw_perf\Debug\sw_perf.exe
+C:\Users\osama\source\repos\sw_perf\Debug\sw_perf.pdb
