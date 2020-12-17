@@ -1,0 +1,12 @@
+func1 called 
+func2 called 
+func3 called 
+func3 returned 
+func2 returned 
+func3 called 
+func3 returned 
+func1 returned 
+func2 called 
+func3 called 
+func3 returned 
+func2 returned 
